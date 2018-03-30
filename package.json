@@ -1,0 +1,23 @@
+{
+  "name": "iot-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdelzoppo/iot-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdelzoppo/iot-node/issues"
+  },
+  "homepage": "https://github.com/fdelzoppo/iot-node#readme",
+  "dependencies": {
+    "cylon": "^1.3.0",
+    "cylon-leapmotion": "^0.21.0"
+  }
+}
